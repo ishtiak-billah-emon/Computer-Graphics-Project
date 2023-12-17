@@ -395,9 +395,7 @@ void designTriangle(float Sx, float Sy, float Tx, float Ty, int R, int G, int B)
             glVertex2f(0.038f, -0.362f);
             glEnd();
 }
-//
-//.
-//.
+
 void containerZ(){
 
     //container 1
