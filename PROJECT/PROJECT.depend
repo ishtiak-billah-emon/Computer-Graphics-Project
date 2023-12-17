@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1702808252 source:f:\academic\course\semester 6\computer graphics\project\final project\project\main.cpp
+1702813592 source:f:\academic\course\semester 6\computer graphics\project\final project\project\main.cpp
 	<windows.h>
 	<GL/glut.h>
 	<math.h>
@@ -879,5 +879,5 @@
 1526093416 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\math.h
 	<crtdefs.h>
 
-1701962091 f:\academic\course\semester 6\computer graphics\project\final project\project\custom.h
+1702813604 f:\academic\course\semester 6\computer graphics\project\final project\project\custom.h
 
