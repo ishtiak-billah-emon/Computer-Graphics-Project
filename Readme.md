@@ -13,9 +13,9 @@ The main objective is to develop a visually immersive simulation showcasing the 
 - Departure from a port where the ship is loaded with containers.
 - User-controlled crane mechanism for moving and picking containers from the dock.
 
-<img src="Images/Scenario1Day.png" height ="360" width="360" title="Scenario 1 Day">
+<img src="Images/Scenario1Day.png" height ="720" width="720" title="Scenario 1 Day">
 
-<img src="Images/Scenario1Night.png" height ="360" width="360" title="Scenario 1 Night">
+<img src="Images/Scenario1Night.png" height ="720" width="720" title="Scenario 1 Night">
 
 
 ### Scenario 2: The Urban Area
