@@ -72,4 +72,5 @@ The main objective is to develop a visually immersive simulation showcasing the 
 - [Ishtiak Billah Emon](https://github.com/ishtiak-billah-emon) 
 - [Rafsan Mahmud](https://github.com/Raafsaan) 
 - [Akid Mahmud](https://github.com/MahmudYagami) 
+- [Shahriar Shajid](https://github.com/Loki0Moki) 
 
