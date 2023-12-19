@@ -1,4 +1,4 @@
-# Ship Simulation: A Journey from Port to Canal
+# THE SAILING ODYSSEY
 
 This project aims to create an interactive computer graphics simulation representing a ship's journey through different scenarios, from departing a port, navigating an urban area, to crossing a canal.
 
